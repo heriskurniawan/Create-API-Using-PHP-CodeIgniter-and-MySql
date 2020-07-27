@@ -48,8 +48,7 @@ Parameter
 - 'password'
 - 'id_level'
 # DELETE Guru
-Method DELETE http://heriskurniawan.my.id/api/index.php
-
+Method DELETE http://heriskurniawan.my.id/api/index.php/
 Parameter
 - 'kd_guru'
 
