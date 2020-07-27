@@ -1,7 +1,57 @@
 # GET Siswa
 Method GET http://heriskurniawan.my.id/api/index.php/siswa
+# POST Siswa
+Method POST http://heriskurniawan.my.id/api/index.php/
+- Parameter :
+- 'nim'
+- 'nama'      
+- 'no_hp'   
+- 'alamat'   
+- 'username'   
+- 'password'   
+- 'id_level'  
+
+# PUT Siswa
+Method PUT http://heriskurniawan.my.id/api/index.php/
+- Parameter :
+- 'nim'
+- 'nama'      
+- 'no_hp'   
+- 'alamat'   
+- 'username'   
+- 'password'   
+- 'id_level'  
+# DELETE Siswa
+Method DELETE http://heriskurniawan.my.id/api/index.php/
+- Parameter :
+- 'nim' 
+
 # GET Guru
 Method GET http://heriskurniawan.my.id/api/index.php/guru
-# GET Pesan
-Method GET http://heriskurniawan.my.id/api/index.php/semua_pesan
+
+# POST Guru
+Method POST http://heriskurniawan.my.id/api/index.php/
+Parameter
+- 'kd_guru'
+- 'nama_guru'
+- 'no_hp'
+- 'username'
+- 'password'
+- 'id_level'
+# PUT Guru
+Method PUT http://heriskurniawan.my.id/api/index.php/
+Parameter
+- 'kd_guru'
+- 'nama_guru'
+- 'no_hp'
+- 'username'
+- 'password'
+- 'id_level'
+# DELETE Guru
+Method DELETE http://heriskurniawan.my.id/api/index.php/
+Parameter
+- 'kd_guru'
+
+
+
 
