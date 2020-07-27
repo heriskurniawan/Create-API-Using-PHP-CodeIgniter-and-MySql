@@ -3,6 +3,7 @@ Method GET http://heriskurniawan.my.id/api/index.php/siswa
 # POST Siswa
 Method POST http://heriskurniawan.my.id/api/index.php/
 - PARAMETER :
+- 
 1 'nim'
 2 'nama'      
 3 'no_hp'   
