@@ -1,4 +1,7 @@
-# ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
+# GET Siswa
+Method GET http://heriskurniawan.my.id/api/index.php/siswa
+# GET Guru
+Method GET http://heriskurniawan.my.id/api/index.php/guru
+# GET Pesan
+Method GET http://heriskurniawan.my.id/api/index.php/semua_pesan
 
-My alternate version https://github.com/ardisaurus/old-rest-ci
