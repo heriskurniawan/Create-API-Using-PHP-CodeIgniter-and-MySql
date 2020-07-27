@@ -2,7 +2,7 @@
 Method GET http://heriskurniawan.my.id/api/index.php/siswa
 # POST Siswa
 Method POST http://heriskurniawan.my.id/api/index.php/
-- Parameter :
+- PARAMETER :
 - 'nim'
 - 'nama'      
 - 'no_hp'   
@@ -13,7 +13,7 @@ Method POST http://heriskurniawan.my.id/api/index.php/
 
 # PUT Siswa
 Method PUT http://heriskurniawan.my.id/api/index.php/
-- Parameter :
+- PARAMETER :
 - 'nim'
 - 'nama'      
 - 'no_hp'   
@@ -23,7 +23,7 @@ Method PUT http://heriskurniawan.my.id/api/index.php/
 - 'id_level'  
 # DELETE Siswa
 Method DELETE http://heriskurniawan.my.id/api/index.php/
-- Parameter :
+- PARAMETER :
 - 'nim' 
 
 # GET Guru
@@ -31,7 +31,7 @@ Method GET http://heriskurniawan.my.id/api/index.php/guru
 
 # POST Guru
 Method POST http://heriskurniawan.my.id/api/index.php/
-Parameter
+- PARAMETER :
 - 'kd_guru'
 - 'nama_guru'
 - 'no_hp'
@@ -40,7 +40,7 @@ Parameter
 - 'id_level'
 # PUT Guru
 Method PUT http://heriskurniawan.my.id/api/index.php/
-Parameter
+ - PARAMETER
 - 'kd_guru'
 - 'nama_guru'
 - 'no_hp'
@@ -49,7 +49,7 @@ Parameter
 - 'id_level'
 # DELETE Guru
 Method DELETE http://heriskurniawan.my.id/api/index.php/
-Parameter
+- PARAMETER
 - 'kd_guru'
 
 
